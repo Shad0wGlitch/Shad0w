@@ -18,7 +18,7 @@ THIS IS VIOLATED COPYRIGHT 911!!!!
 
 ## I'm Deltwin <img src="https://raw.githubusercontent.com/Deltwin/Deltwin/master/halohal.gif" width="30px">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Deltwin&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=IloveOrbiter&color=blueviolet)
 
 <!--
 ## About my Experience of ${CODING} 💬
@@ -28,11 +28,11 @@ src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" 
 -->
 
 ## My Stats 🤔
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Deltwin&theme=dracula"></div>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=IloveOrbiter&theme=dracula"></div>
 
 <details>
   <summary>My <b>GitHub</b> Activity</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Deltwin&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deltwin&theme=tokyonight&hide=batchfile">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=IloveOrbiter&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deltwin&theme=tokyonight&hide=batchfile">
 </details>
 
 <!-- 
